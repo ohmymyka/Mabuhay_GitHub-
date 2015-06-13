@@ -1,3 +1,6 @@
 # Mabuhay_GitHub-
-The first of many repos created by ohmymyka
-This is me trying the GitHub bootcamp while taking the Data Scientists' Toolbox Course
+##The first of many repos created by ohmymyka
+######This is me trying the GitHub bootcamp while taking the Data Scientists' Toolbox Course
+* First bullet
+* Second bullet
+* Third Bullet
